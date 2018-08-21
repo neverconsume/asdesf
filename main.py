@@ -1,7 +1,7 @@
 """to use the entire application just call reader.inference()"""
 """ boooi you must be proud now! u made a real chatbot! dudeee that took google forever to create."""
-""" add the therapy part make it a func"""
-"""you are working on two add_ons buffer and listen."""
+
+"""you are working on two add_ons buffer and listen. I"""
 
 
 """
